@@ -1,4 +1,4 @@
-# 🚀 Welcome to **abnormal** 🚀
+# 🚀 **abnormal to helix** 🚀
 
 Your go-to **middleware for Helix**! Simplify your workflows and supercharge your applications with **abnormal**.
 
@@ -25,7 +25,10 @@ Getting started is a breeze! Just follow these steps:
     pip install -r requirements.txt
     ```
 
-4. **Run the application**:
+4. **Configure the environment variables**:
+    Ensure you have a `.env` file in the root directory with the required configurations. Refer to the `.env.example` file for guidance.
+
+5. **Run the application**:
     ```bash
     python abnormal.py
     ```
@@ -38,3 +41,4 @@ Getting started is a breeze! Just follow these steps:
 
 - **Seamless Integration**: Works effortlessly with Helix.
 - **Lightweight and Fast**: Optimized for performance.
+
