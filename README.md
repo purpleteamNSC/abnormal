@@ -30,6 +30,7 @@ Getting started is a breeze! Just follow these steps:
 
 5. **Run the application**:
     ```bash
+    cd app
     python abnormal.py
     ```
 
